@@ -1,4 +1,4 @@
-package com.example.smm.swagger.test;
+package com.example.smm.test;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

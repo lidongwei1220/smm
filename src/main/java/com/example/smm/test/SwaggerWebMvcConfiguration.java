@@ -1,4 +1,4 @@
-package com.example.smm.swagger.test;
+package com.example.smm.test;
 
 
 import com.example.smm.swagger.GlobalSwagger;
